@@ -8,6 +8,7 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
 
+<<<<<<< HEAD
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
@@ -17,3 +18,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 3.  Then create a user by "http://localhost:3001/register" and check the hit in the docker container.
 
 Something
+=======
+## How to run locally?
+1. [Install Docker](https://docs.docker.com/get-docker/)
+2. [Install Docker Compose](https://docs.docker.com/compose/install/)
+3. Run `docker-compose up`. 
+>>>>>>> 145f613107bf516303b95d60ce33f5dc2604aa2f
